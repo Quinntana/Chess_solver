@@ -10,6 +10,9 @@ This repository automates capturing and analyzing a live chessboard. It identifi
 - **fen.py**: Builds a FEN string based on recognized pieces.  
 - **engine.py**: Interfaces with the Stockfish engine to analyze positions.
 
+## Demo
+https://www.youtube.com/watch?v=EQkozOIHkus
+
 ## Usage
 1. Install dependencies (e.g., `python-chess`, `opencv-python`, `pyautogui`, `pyperclip`).  
 2. Run:
