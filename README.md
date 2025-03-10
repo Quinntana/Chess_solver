@@ -1,5 +1,9 @@
 # Chess Solver
 
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Quinntana/Chess_solver)
+![GitHub license](https://img.shields.io/github/license/Quinntana/Chess_solver)
+![GitHub stars](https://img.shields.io/github/stars/Quinntana/Chess_solver)
+
 This repository automates capturing and analyzing a live chessboard. It identifies piece positions from a screenshot, generates FEN notation, and provides best moves using a chess engine.
 
 ## Files Overview
