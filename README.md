@@ -14,7 +14,9 @@ This repository automates capturing and analyzing a live chessboard. It identifi
 https://www.youtube.com/watch?v=EQkozOIHkus
 
 ## Usage
-1. Install dependencies (e.g., `python-chess`, `opencv-python`, `pyautogui`, `pyperclip`).  
-2. Run:
+1. Install dependencies (e.g., `python-chess`, `opencv-python`, `pyautogui`, `pyperclip`).
+   ```bash
+   pip install -r requirements.txt
+3. Run:
    ```bash
    python main.py
